@@ -2,7 +2,6 @@
 
 A deep learning-based system for classifying soil quality to empower precision agriculture. This project utilizes a **Modified Multilayer Perceptron (MLP)** model to predict soil fertility classes based on chemical and physical soil parameters from the **LUCAS 2018 TOPSOIL** dataset.
 
-![Soil Health Banner](https://img.freepik.com/premium-vector/plant-growing-from-soil-with-ai-chip-background-smart-agriculture-technology-illustration_622692-728.jpg) <!-- Optional visual banner -->
 
 ## 📌 Overview
 
